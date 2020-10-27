@@ -1,7 +1,8 @@
 ---
 layout: photo
-date: 2020-10-27 17:33:35 +0000
+date: 2020-10-27 17:36:46 +0000
 ---
 ![](/images/photo.jpg)
+  ![](/images/photo2.jpg)
   
 Adding a new photo
