@@ -1,7 +1,6 @@
 ---
 layout: note
-date: 2020-11-03 16:29:17 +0000
-published: false
+date: 2020-11-03 16:33:39 +0000
 ---
 
-This post will be deleted when the test succeeds.
+This post will be deleted, and should be restored after undeleting it.
