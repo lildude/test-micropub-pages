@@ -1,8 +1,5 @@
 ---
 layout: note
-tags:
-- test1
-- test2
 date: 2020-11-03 16:10:08 +0000
 ---
 
